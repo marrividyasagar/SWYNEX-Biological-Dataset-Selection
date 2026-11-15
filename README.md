@@ -1,8 +1,5 @@
 # SWYNEX - Biological Dataset Selection
 
-## Project Title
-Comparative Gene Expression Analysis of Pancreatic Beta Cells in Type 2 Diabetes
-
 ## 1. Introduction
 Bioinformatics combines biology, computer science and statistical methods to analyse biological data.
 
@@ -48,26 +45,8 @@ NCBI BioProject:
 
 https://www.ncbi.nlm.nih.gov/bioproject/PRJNA124531
 
-## 7. Tools and Technologies
-- NCBI GEO
-- Python
-- Google Colab
-- R / RStudio
-- GitHub
 
-## 8. Expected Applications
-- Gene expression research
-- Differentially expressed gene identification
-- Biological pathway analysis
-- Diabetes-related molecular research
-- Bioinformatics data visualization
-
-## 9. Conclusion
-The GSE20966 dataset provides publicly accessible human gene expression information that can be used to study molecular changes associated with Type 2 Diabetes.
-
-This project demonstrates the importance of public biological databases in bioinformatics research and provides a foundation for future computational analysis.
-
-## 10. References
+## 7. References
 1. NCBI GEO: GSE20966
 2. NCBI BioProject: PRJNA124531
 3. Marselli et al. (2010), PLOS ONE.
